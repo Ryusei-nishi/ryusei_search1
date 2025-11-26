@@ -9,5 +9,5 @@ int  add_1(int x)
 int main(void) 
 {
 	int input = 1; 
-	print("%d",add_1(input));
+	printf("%d",add_1(input));
 }
